@@ -19,10 +19,6 @@ Nesta primeira etapa, focamos no entendimento do negócio e no mapeamento do com
     
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/5860d3d0-a1d5-480a-9671-2f3a015da833" />
 
-*Arquivo original:*
-
-https://drive.google.com/file/d/1rnjhFatIWru2VZaRrGcFsTc9GHM4kLFn/view?usp=sharing
-
 ---
 
 ### 🗄️ Estruturação Lógica e Física do Banco de Dados
@@ -39,10 +35,6 @@ Com os requisitos definidos, estruturamos o armazenamento de dados do **OBsystem
 *Modelo Físico de Dados:*
   
 <img width="1919" height="1032" alt="image" src="https://github.com/user-attachments/assets/9350d0ad-e5d5-41b5-9f88-9453d02a0246" />
-
-*Arquivo original:*
-
-https://drive.google.com/file/d/1uIKCSN_RYWu8nAauBjKnMHxmQ2m7jmaa/view?usp=sharing
 
 ---
 
